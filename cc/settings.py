@@ -146,6 +146,8 @@ LOGOUT_REDIRECT_URL = 'homepage'
 
 MESSAGE_STORAGE = 'django.contrib.messages.storage.cookie.CookieStorage'
 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
 # LOGGING = {
 #     'version': 1,
 #     'disable_existing_loggers': False,
